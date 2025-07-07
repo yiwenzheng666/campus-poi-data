@@ -1,0 +1,3515 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-05T15:21:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/13758518",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "30-52",
+        "addr:postcode": "G3 8JU",
+        "addr:street": "Finnieston Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "retail",
+        "check_date": "2023-06-24",
+        "fhrs:id": "1350208",
+        "level": "0",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
+        "shop": "supermarket",
+        "source": "Bing",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/finnieston-street/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2818791,
+          55.8626302
+        ]
+      },
+      "id": "way/13758518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/15218448",
+        "addr:housenumber": "751",
+        "addr:postcode": "G53 6AG",
+        "addr:street": "Barrhead Road",
+        "brand": "Tesco Extra",
+        "brand:wikidata": "Q25172225",
+        "brand:wikipedia": "en:Tesco Extra",
+        "building": "supermarket",
+        "contact:website": "https://www.tesco.com/store-locator/glasgow/751-barrhead-road",
+        "fhrs:id": "847626",
+        "name": "Tesco Extra",
+        "postal_code": "G53 6QR",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3400683,
+          55.8228682
+        ]
+      },
+      "id": "way/15218448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22569524",
+        "addr:housenumber": "110",
+        "addr:postcode": "G51 4BT",
+        "addr:street": "Kings Inch Drive",
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "building": "retail",
+        "building:levels": "1",
+        "fhrs:id": "138942",
+        "name": "Sainsbury's",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su 08:00-21:00",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://stores.sainsburys.co.uk/2231/braehead",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3569243,
+          55.8727668
+        ]
+      },
+      "id": "way/22569524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/25239704",
+        "addr:city": "Glasgow",
+        "addr:housename": "Great Western Retail Park",
+        "addr:postcode": "G15 6RX",
+        "addr:street": "Allerdyce Road",
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "contact:website": "https://stores.sainsburys.co.uk/0523/drumchapel",
+        "fhrs:id": "25390",
+        "name": "Sainsbury's",
+        "opening_hours": "Su-Fr 08:00-22:00; Sa 07:00-22:00",
+        "phone": "+44 141 944 2841",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3742811,
+          55.9045946
+        ]
+      },
+      "id": "node/25239704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29305893",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "900",
+        "addr:postcode": "G13 1HY",
+        "addr:street": "Crow Road",
+        "atm": "yes",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "check_date": "2025-06-06",
+        "fhrs:id": "91631",
+        "name": "Morrisons",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "website": "https://my.morrisons.com/storefinder/179/glasgow-anniesland",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3214409,
+          55.891537
+        ]
+      },
+      "id": "way/29305893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30742298",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "G33 1AD",
+        "addr:street": "Monument Drive",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "retail",
+        "check_date": "2025-03-23",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdarobroyston/",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/glasgow/1-monument-drive",
+        "fhrs:id": "23200",
+        "name": "Asda",
+        "opening_hours": "24/7",
+        "operator": "Asda Stores Ltd",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.186948,
+          55.8909814
+        ]
+      },
+      "id": "way/30742298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32278104",
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "building": "yes",
+        "name": "Sainsbury's",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://stores.sainsburys.co.uk/2214/glasgow-muirend",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2727213,
+          55.8092879
+        ]
+      },
+      "id": "way/32278104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41782692",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "10",
+        "addr:postcode": "G53 7RH",
+        "addr:street": "Darnley Mains Road",
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "building": "yes",
+        "contact:website": "https://stores.sainsburys.co.uk/0885/darnley",
+        "fhrs:id": "93187",
+        "name": "Sainsbury's",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3448961,
+          55.8060342
+        ]
+      },
+      "id": "way/41782692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41852866",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "G11 6BQ",
+        "addr:street": "Merkland Court",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2025-06-06",
+        "designation": "Glasgow - Patrick",
+        "name": "Morrisons",
+        "opening_hours": "Mo-Sa 07:00-22:00, Su 08:00-22:00",
+        "operator": "Morrisons",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://my.morrisons.com/storefinder/375/glasgow-partick",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3074873,
+          55.8698299
+        ]
+      },
+      "id": "way/41852866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42208196",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "building:levels": "1",
+        "contact:website": "https://stores.aldi.co.uk/glasgow/unit6-auldhouse-retail-park",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-20:00",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2968993,
+          55.8215812
+        ]
+      },
+      "id": "way/42208196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/44921696",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "contact:website": "https://stores.aldi.co.uk/drumchapel/500-duntreath-avenue",
+        "name": "ALDI",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3700584,
+          55.9074585
+        ]
+      },
+      "id": "way/44921696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/45342716",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "20",
+        "addr:postcode": "G34 9JJ",
+        "addr:street": "Auchinlea Way",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "building:use": "retail",
+        "height": "15",
+        "name": "Morrisons",
+        "operator": "Morrisons",
+        "shop": "supermarket",
+        "source": "survey",
+        "website": "https://my.morrisons.com/storefinder/152/glasgow-auchinlea",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1283798,
+          55.8687567
+        ]
+      },
+      "id": "way/45342716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48520715",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "80",
+        "addr:postcode": "G11 7RY",
+        "addr:street": "Crow Road",
+        "brand": "Sainsbury's",
+        "brand:wikidata": "Q152096",
+        "brand:wikipedia": "en:Sainsbury's",
+        "building": "retail",
+        "check_date": "2025-07-05",
+        "designation": "Patrick Superstore",
+        "fhrs:id": "91617",
+        "name": "Sainsbury's",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa 07:00-22:00; Su 08:00-22:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "source": "yahoo",
+        "website": "https://stores.sainsburys.co.uk/2016/partick",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3124168,
+          55.8730148
+        ]
+      },
+      "id": "way/48520715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51212554",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "373",
+        "addr:postcode": "G12 8AU",
+        "addr:street": "Byres Road",
+        "brand": "Waitrose",
+        "brand:wikidata": "Q771734",
+        "brand:wikipedia": "en:Waitrose",
+        "building": "commercial",
+        "designation": "Byres Road",
+        "fhrs:id": "31251",
+        "fixme": "Check housenumber - disagreement with FHRS data (367)",
+        "level": "1",
+        "name": "Waitrose",
+        "official_name": "Waitrose & Partners",
+        "opening_hours": "Mo-Fr 08:00-22:00; Sa 08:00-21:00; Su 09:00-20:00",
+        "operator": "Waitrose & Partners",
+        "shop": "supermarket",
+        "website": "https://www.waitrose.com/find-a-store/byres-rd",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2915972,
+          55.8775433
+        ]
+      },
+      "id": "way/51212554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54691165",
+        "addr:city": "Paisley",
+        "addr:street": "Falside Road",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "name": "Morrisons",
+        "shop": "supermarket",
+        "source": "OS_OpenData_StreetView",
+        "website": "https://my.morrisons.com/storefinder/192/paisley-falside-road",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4234944,
+          55.8296678
+        ]
+      },
+      "id": "way/54691165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54691166",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "name": "Morrisons",
+        "shop": "supermarket",
+        "source": "OS_OpenData_StreetView",
+        "website": "https://my.morrisons.com/storefinder/139/paisley-anchor-mills",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4145141,
+          55.8418526
+        ]
+      },
+      "id": "way/54691166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/71080095",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "name": "Morrisons",
+        "shop": "supermarket",
+        "source": "OS OpenData StreetView",
+        "website": "https://my.morrisons.com/storefinder/136/glasgow-cardonald",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3409276,
+          55.8464482
+        ]
+      },
+      "id": "way/71080095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80367753",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "20",
+        "addr:postcode": "G23 5EZ",
+        "addr:street": "Rothes Drive",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "yes",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdamaryhill/",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/glasgow/20-rothes-drive",
+        "fhrs:id": "127653",
+        "name": "Asda",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-20:00",
+        "operator": "Asda Stores Ltd",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2921667,
+          55.8997312
+        ]
+      },
+      "id": "way/80367753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80621152",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "601",
+        "addr:postcode": "G32 7JG",
+        "addr:street": "Old Shettleston Road",
+        "brand": "Tesco Extra",
+        "brand:wikidata": "Q25172225",
+        "brand:wikipedia": "en:Tesco Extra",
+        "building": "yes",
+        "contact:website": "https://www.tesco.com/store-locator/glasgow/annick-st",
+        "fhrs:id": "807796",
+        "name": "Tesco Extra",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1640254,
+          55.8530722
+        ]
+      },
+      "id": "way/80621152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/80959030",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "yes",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "source": "bing",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/tollcross/tollcross-road-850/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1798382,
+          55.8435514
+        ]
+      },
+      "id": "way/80959030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/86865097",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "7",
+        "addr:postcode": "G62 6NB",
+        "addr:street": "Gavin's Mill Road",
+        "addr:suburb": "Milngavie",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "building:part": "retail",
+        "check_date": "2025-06-06",
+        "contact:website": "https://www.tesco.com/store-locator/glasgow/7-gavins-mill-rd",
+        "fhrs:id": "635147",
+        "level": "0",
+        "name": "Tesco",
+        "opening_hours": "Mo-Sa 07:00-23:00; Su 08:00-22:00",
+        "operator": "Tesco",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3148418,
+          55.9397914
+        ]
+      },
+      "id": "way/86865097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/106406143",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "555",
+        "addr:postcode": "G42 0AE",
+        "addr:street": "Prospecthill Road",
+        "atm": "yes",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "retail",
+        "building:levels": "2",
+        "changing_table": "yes",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdatoryglen/",
+        "contact:phone": "+44 141 433 2550",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/glasgow/555-prospecthill-road",
+        "fhrs:id": "188115",
+        "name": "Asda",
+        "opening_hours": "24/7",
+        "operator": "Asda Stores Ltd",
+        "payment:cash": "yes",
+        "paypoint": "yes",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source": "Yahoo",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2465827,
+          55.8300065
+        ]
+      },
+      "id": "way/106406143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/114871481",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "263",
+        "addr:postcode": "G31 1HX",
+        "addr:street": "Duke Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "1.5",
+        "check_date": "2023-09-08",
+        "fhrs:id": "855695",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-22:00",
+        "operator": "Lidl Stiftung & Co. KG",
+        "phone": "+44 800 977 7766",
+        "roof:shape": "skillion",
+        "shop": "supermarket",
+        "source": "http://www.lidl.co.uk/",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/duke-street-285/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2253334,
+          55.8588302
+        ]
+      },
+      "id": "way/114871481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118265922",
+        "addr:housenumber": "160",
+        "addr:postcode": "PA4 0NQ",
+        "addr:street": "Newmains Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "building": "yes",
+        "contact:website": "https://www.tesco.com/store-locator/renfrew/newmains-rd",
+        "fhrs:id": "114624",
+        "name": "Tesco",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3850157,
+          55.8674769
+        ]
+      },
+      "id": "way/118265922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118929618",
+        "addr:city": "Clydebank",
+        "addr:country": "GB",
+        "addr:housenumber": "31",
+        "addr:postcode": "G81 2RZ",
+        "addr:street": "Britannia Way",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "yes",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdaclydebank/",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/clydebank/31-britannia-way",
+        "fhrs:id": "99697",
+        "name": "Asda",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "operator": "Asda Stores Ltd",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4001334,
+          55.9046217
+        ]
+      },
+      "id": "way/118929618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123768739",
+        "addr:housenumber": "12",
+        "addr:postcode": "G21 1AL",
+        "addr:street": "Cobden Road",
+        "brand": "Tesco Extra",
+        "brand:wikidata": "Q25172225",
+        "brand:wikipedia": "en:Tesco Extra",
+        "building": "retail",
+        "contact:website": "https://www.tesco.com/store-locator/glasgow/cobden-rd",
+        "diet:halal": "yes",
+        "fhrs:id": "23249",
+        "name": "Tesco Extra",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "shop": "supermarket",
+        "source": "survey;bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2309853,
+          55.8731555
+        ]
+      },
+      "id": "way/123768739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/128404141",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "2",
+        "addr:postcode": "G20 7JN",
+        "addr:street": "Hopehill Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "108540",
+        "name": "Lidl",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "phone": "+44 800 9777766",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/maryhill/hopehill-road-2/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2690138,
+          55.874724
+        ]
+      },
+      "id": "way/128404141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129857717",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "500",
+        "addr:postcode": "G51 3HR",
+        "addr:street": "Helen Street",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "yes",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdagovan/",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/glasgow/500-helen-street",
+        "fhrs:id": "107057",
+        "name": "Asda",
+        "opening_hours": "Mo-Su 00:00-24:00",
+        "operator": "Asda Stores Ltd",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3226191,
+          55.8527713
+        ]
+      },
+      "id": "way/129857717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/130877736",
+        "addr:country": "GB",
+        "addr:housenumber": "2",
+        "addr:postcode": "G21 1YL",
+        "addr:street": "Cobden Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "diet:halal": "yes",
+        "fhrs:id": "87819",
+        "name": "Lidl",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/springburn/springburn-road/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2314745,
+          55.8745751
+        ]
+      },
+      "id": "way/130877736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132516098",
+        "addr:housenumber": "1",
+        "addr:postcode": "PA1 1QA",
+        "addr:street": "East Lane",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "building": "yes",
+        "contact:website": "https://www.tesco.com/store-locator/paisley/east-ln",
+        "fhrs:id": "114801",
+        "name": "Tesco",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4040348,
+          55.845928
+        ]
+      },
+      "id": "way/132516098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132741027",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "190",
+        "addr:postcode": "G5 9ZR",
+        "addr:street": "Crown Street",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "building": "yes",
+        "building:levels": "2",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "fhrs:id": "48925",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "source": "bing;survey",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.coop.co.uk/store-finder/G5-9ZR/190-crown-street",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251333,
+          55.8488153
+        ]
+      },
+      "id": "way/132741027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/132882610",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "400",
+        "addr:postcode": "G51 3HR",
+        "addr:street": "Helen Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171672",
+        "building": "yes",
+        "name": "Aldi",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-20:00",
+        "shop": "supermarket",
+        "website": "https://stores.aldi.co.uk/scotland/govan/400-helen-street",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3199476,
+          55.8531476
+        ]
+      },
+      "id": "way/132882610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/133174306",
+        "addr:country": "GB",
+        "addr:housenumber": "19",
+        "addr:postcode": "G51 4QL",
+        "addr:street": "Moss Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "121422",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "source": "Bing",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/govan/moss-road-19/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3337153,
+          55.8636003
+        ]
+      },
+      "id": "way/133174306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144136896",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "supermarket",
+        "building:facade:colour": "grey",
+        "building:levels": "2",
+        "check_date": "2023-09-16",
+        "name": "Morrisons",
+        "opening_hours": "Mo-Sa 07:00-22:00, Su 08:00-21:00",
+        "roof:colour": "white",
+        "roof:shape": "flat",
+        "shop": "supermarket",
+        "source": "survey",
+        "toilets": "yes",
+        "website": "https://my.morrisons.com/storefinder/516/glasgow-gallowgate",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2337605,
+          55.8560852
+        ]
+      },
+      "id": "way/144136896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146426690",
+        "addr:country": "GB",
+        "addr:housenumber": "80",
+        "addr:postcode": "G61 2TX",
+        "addr:street": "Milngavie Road",
+        "addr:suburb": "Bearsden",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "retail",
+        "check_date": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdabearsden/",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/glasgow/80-milngavie-road",
+        "fhrs:id": "552719",
+        "name": "Asda",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Asda Stores Ltd",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3185442,
+          55.917193
+        ]
+      },
+      "id": "way/146426690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148601433",
+        "addr:city": "Glasgow",
+        "addr:postcode": "G62 6BH",
+        "addr:street": "Main Street",
+        "addr:suburb": "Milngavie",
+        "addr:unit": "1",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "building": "yes",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/milngavie-simply-food-6525",
+        "fhrs:id": "635192",
+        "name": "M&S Simply Food",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su 09:00-18:00",
+        "operator": "Marks & Spencer",
+        "phone": "+44 141 956 5029",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3176682,
+          55.9408351
+        ]
+      },
+      "id": "way/148601433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/156336654",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "300",
+        "addr:postcode": "G42 7RW",
+        "addr:street": "Victoria Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "commercial",
+        "building:levels": "2",
+        "fhrs:id": "315893",
+        "name": "Lidl",
+        "opening_hours": "PH,Mo-Su 08:00-22:00",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source": "Bing",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/victoria-road-300/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2644502,
+          55.8391014
+        ]
+      },
+      "id": "way/156336654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158451101",
+        "addr:housenumber": "3",
+        "addr:postcode": "G61 4AN",
+        "addr:street": "Station Road",
+        "addr:suburb": "Bearsden",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "fhrs:id": "552743",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 141 931 5493",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.coop.co.uk/store-finder/G61-4AN/3-station-road",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3314146,
+          55.9168297
+        ]
+      },
+      "id": "way/158451101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177858609",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "building": "yes",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "source": "bing;survey",
+        "website": "https://www.coop.co.uk/store-finder/G33-6HZ/63-cumbernauld-road",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1541035,
+          55.8879224
+        ]
+      },
+      "id": "way/177858609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184020645",
+        "addr:housenumber": "117",
+        "addr:postcode": "G43 1PU",
+        "addr:street": "Riverford Road",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "supermarket",
+        "building:levels": "2",
+        "diet:gluten_free": "limited",
+        "diet:lactose_free": "limited",
+        "diet:sugar_free": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Morrisons",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-20:00",
+        "organic": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "phone": "+44 141 636 6234",
+        "roof:levels": "0",
+        "roof:shape": "double_saltbox",
+        "shop": "supermarket",
+        "website": "https://my.morrisons.com/storefinder/183/glasgow-newlands",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2894093,
+          55.8234742
+        ]
+      },
+      "id": "way/184020645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184020837",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "115",
+        "addr:postcode": "G41 4DA",
+        "addr:street": "Titwood Road",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "fhrs:id": "131841",
+        "name": "Morrisons",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "website": "https://my.morrisons.com/storefinder/374/glasgow-crossmyloof",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2856708,
+          55.8338616
+        ]
+      },
+      "id": "way/184020837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184021394",
+        "addr:country": "GB",
+        "addr:housenumber": "32",
+        "addr:postcode": "G43 1QD",
+        "addr:street": "Riverford Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "retail",
+        "building:levels": "1",
+        "diet:gluten_free": "limited",
+        "diet:lactose_free": "limited",
+        "diet:sugar_free": "limited",
+        "fhrs:id": "127299",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Lidl",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "organic": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/pollokshaws/riverford-road-30/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2938066,
+          55.8234763
+        ]
+      },
+      "id": "way/184021394"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194012488",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "1305",
+        "addr:street": "Shettleston Road",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "contact:website": "https://stores.aldi.co.uk/glasgow/1305-shettleston-road",
+        "name": "ALDI",
+        "shop": "supermarket",
+        "source": "bing;survey",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1615312,
+          55.851981
+        ]
+      },
+      "id": "way/194012488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/195393745",
+        "addr:city": "Glasgow",
+        "addr:housename": "Rutherglen Park",
+        "addr:postcode": "G73 1NY",
+        "addr:street": "Dalmarnock Road",
+        "brand": "Tesco Extra",
+        "brand:wikidata": "Q25172225",
+        "building": "commercial",
+        "contact:website": "https://www.tesco.com/store-locator/glasgow/dalmarnock-rd",
+        "fhrs:id": "678523",
+        "name": "Tesco Extra",
+        "opening_hours": "24/7",
+        "operator": "Tesco",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2111269,
+          55.8343483
+        ]
+      },
+      "id": "way/195393745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/195410948",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "contact:website": "https://stores.aldi.co.uk/rutherglen/harriet-street",
+        "name": "Aldi",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2191243,
+          55.8263731
+        ]
+      },
+      "id": "way/195410948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203359504",
+        "addr:housenumber": "241",
+        "addr:postcode": "G73 3RJ",
+        "addr:street": "Stonelaw Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "brand:wikipedia": "en:Tesco",
+        "building": "yes",
+        "contact:website": "https://www.tesco.com/store-locator/glasgow/241-stonelaw-rd",
+        "fhrs:id": "677886",
+        "name": "Tesco",
+        "shop": "supermarket",
+        "source:building": "Bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2016292,
+          55.8186707
+        ]
+      },
+      "id": "way/203359504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203480754",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "151",
+        "addr:postcode": "G72 8PE",
+        "addr:street": "Western Road",
+        "brand": "Nisa Extra",
+        "brand:wikidata": "Q16999069",
+        "brand:wikipedia": "en:Nisa (retailer)",
+        "building": "commercial",
+        "fhrs:id": "678271",
+        "name": "Nisa Extra",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1801053,
+          55.8090141
+        ]
+      },
+      "id": "way/203480754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/203932795",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "10",
+        "addr:postcode": "G22 6AR",
+        "addr:street": "Stronend Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "18784",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "source": "bing",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/balmore-road-109/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2578541,
+          55.8857925
+        ]
+      },
+      "id": "way/203932795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211695779",
+        "addr:city": "Clarkston, Glasgow",
+        "addr:housenumber": "36",
+        "addr:postcode": "G76 7EU",
+        "addr:street": "Mearns Road",
+        "brand": "Scotmid",
+        "brand:wikidata": "Q7435719",
+        "brand:wikipedia": "en:Scotmid",
+        "building": "yes",
+        "fhrs:id": "7487",
+        "name": "Scotmid",
+        "operator": "Scotmid",
+        "shop": "supermarket",
+        "website": "https://scotmid.coop/store/clarkston/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.280074,
+          55.7891517
+        ]
+      },
+      "id": "way/211695779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224270831",
+        "addr:country": "GB",
+        "addr:housenumber": "707",
+        "addr:postcode": "G53 7TA",
+        "addr:street": "Crookston Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "building": "yes",
+        "fhrs:id": "91380",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "source": "bing",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/crookston/crookston-road/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3626209,
+          55.8309069
+        ]
+      },
+      "id": "way/224270831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225954946",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "contact:website": "https://stores.aldi.co.uk/robroyston/hillhead-road",
+        "name": "Aldi",
+        "shop": "supermarket",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1989132,
+          55.8977985
+        ]
+      },
+      "id": "way/225954946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228709930",
+        "addr:housenumber": "41",
+        "addr:postcode": "PA4 8QP",
+        "addr:street": "High Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:website": "https://stores.aldi.co.uk/renfrew/41-high-street",
+        "fhrs:id": "765453",
+        "name": "ALDI",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3854599,
+          55.8787083
+        ]
+      },
+      "id": "way/228709930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/232707764",
+        "addr:city": "Glasgow",
+        "addr:housename": "West End Retail Park",
+        "addr:housenumber": "36",
+        "addr:postcode": "G11 7RY",
+        "addr:street": "Crow Road",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "building": "retail",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/glasgow-west-end-simply-food-3683",
+        "fhrs:id": "22590",
+        "name": "M&S Simply Food",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 08:30-19:00; Su 09:00-18:00",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3121744,
+          55.8716015
+        ]
+      },
+      "id": "way/232707764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233606379",
+        "addr:housename": "Morrisons Supermarket",
+        "addr:housenumber": "38",
+        "addr:postcode": "G46 6AA",
+        "addr:street": "Fenwick Road",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "yes",
+        "fhrs:id": "82674",
+        "name": "Morrisons",
+        "shop": "supermarket",
+        "website": "https://my.morrisons.com/storefinder/693/glasgow-giffnock",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2978699,
+          55.8088611
+        ]
+      },
+      "id": "way/233606379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/256501686",
+        "addr:postcode": "G72 7EA",
+        "brand": "Morrisons",
+        "brand:wikidata": "Q922344",
+        "brand:wikipedia": "en:Morrisons",
+        "building": "commercial",
+        "name": "Morrisons",
+        "operator": "Morrisons",
+        "shop": "supermarket",
+        "website": "https://my.morrisons.com/storefinder/182/glasgow-cambuslang",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1685796,
+          55.8219457
+        ]
+      },
+      "id": "way/256501686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/296352258",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "276",
+        "addr:postcode": "G64 2PT",
+        "addr:street": "Kirkkintilloch Road",
+        "alt_name": "ASDA Bishopbriggs Superstore",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "building": "yes",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdabishopbriggs/",
+        "contact:twitter": "asda",
+        "contact:website": "https://storelocator.asda.com/scotland/glasgow/276-kirkintilloch-road",
+        "fhrs:id": "761724",
+        "name": "Asda",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Asda Stores Ltd",
+        "shop": "supermarket",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2170631,
+          55.9134111
+        ]
+      },
+      "id": "way/296352258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/313157629",
+        "addr:housenumber": "134",
+        "addr:postcode": "G46 6XN",
+        "addr:street": "Fenwick Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "1089963",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/giffnock/fenwick-road/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2949257,
+          55.8056387
+        ]
+      },
+      "id": "way/313157629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/390017117",
+        "addr:country": "GB",
+        "addr:housenumber": "585",
+        "addr:postcode": "G53 7RZ",
+        "addr:street": "Nitshill Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "supermarket",
+        "fhrs:id": "123487",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/darnley/nitshill-road-585/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.353873,
+          55.8117583
+        ]
+      },
+      "id": "way/390017117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395670070",
+        "addr:city": "Glasgow",
+        "addr:housename": "Marks & Spencer",
+        "addr:housenumber": "8",
+        "addr:postcode": "G13 2TG",
+        "addr:street": "Knightscliffe Avenue",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "brand:wikipedia": "en:Marks & Spencer",
+        "building": "supermarket",
+        "building:levels": "1",
+        "check_date": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/anniesland-simply-food-397",
+        "fhrs:id": "1100929",
+        "name": "M&S Foodhall",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00; PH 10:00-18:00",
+        "payment:cash": "yes",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3331621,
+          55.8943424
+        ]
+      },
+      "id": "way/395670070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/395670091",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "4",
+        "addr:postcode": "G13 2TG",
+        "addr:street": "Knightscliffe Avenue",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "retail",
+        "contact:website": "https://stores.aldi.co.uk/glasgow/4-knightscliffe-avenue",
+        "fhrs:id": "30924",
+        "name": "Aldi",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3329966,
+          55.8939786
+        ]
+      },
+      "id": "way/395670091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/437522472",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "165-169",
+        "addr:postcode": "G12 8AQ",
+        "addr:street": "Great George Street",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/glasgow-byres-road-simply-food-8332",
+        "designation": "Glasgow - Byres Road Simply Food",
+        "fhrs:id": "15687",
+        "name": "M&S Simply Food",
+        "opening_hours": "Mo-Th 08:00-21:00; Fr-Sa 08:00-21:30; Su 10:00-20:00",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2926478,
+          55.8754615
+        ]
+      },
+      "id": "node/437522472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/498095224",
+        "addr:postcode": "G62 6HJ",
+        "addr:street": "Glasgow Road",
+        "brand": "Waitrose",
+        "brand:wikidata": "Q771734",
+        "brand:wikipedia": "en:Waitrose",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-05-09",
+        "fhrs:authority": "East Dunbartonshire",
+        "fhrs:id": "810719",
+        "fhrs:local_authority_id": "PI/000061096",
+        "name": "Waitrose",
+        "nohousenumber": "yes",
+        "official_name": "Waitrose & Partners",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa-Su 08:30-20:00",
+        "operator": "Waitrose & Partners",
+        "payment:cash": "yes",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://www.waitrose.com/find-a-store/milngavie",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3147676,
+          55.9343715
+        ]
+      },
+      "id": "way/498095224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/531782164",
+        "addr:country": "GB",
+        "addr:housenumber": "200",
+        "addr:postcode": "G73 3BA",
+        "addr:street": "Cambuslang Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "734227",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow-rutherglen/richmond-place-17/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1950325,
+          55.8273761
+        ]
+      },
+      "id": "way/531782164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/577312726",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "contact:website": "https://stores.aldi.co.uk/paisley/2-printers-place",
+        "name": "ALDI",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4211166,
+          55.8302065
+        ]
+      },
+      "id": "way/577312726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/601697571",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "470",
+        "addr:postcode": "G12 8EW",
+        "addr:street": "Great Western Road",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "fhrs:id": "104696",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "phone": "+44 141 357 6739",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G12-8EW/470-great-western-road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2812123,
+          55.8753454
+        ]
+      },
+      "id": "node/601697571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602520378",
+        "addr:housenumber": "1201",
+        "addr:postcode": "G20 9SH",
+        "addr:street": "Maryhill Road",
+        "addr:unit": "Unit 9",
+        "brand": "Tesco Extra",
+        "brand:wikidata": "Q25172225",
+        "brand:wikipedia": "en:Tesco Extra",
+        "check_date": "2025-02-02",
+        "contact:website": "https://www.tesco.com/store-locator/central-scotland/maryhill-road",
+        "fhrs:id": "36371",
+        "level": "1",
+        "name": "Tesco Extra",
+        "opening_hours": "24/7",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2862594,
+          55.88714
+        ]
+      },
+      "id": "node/602520378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625318059",
+        "brand": "The Food Warehouse",
+        "brand:wikidata": "Q87263899",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "The Food Warehouse",
+        "operator": "The Food Warehouse",
+        "roof:levels": "0",
+        "shop": "supermarket",
+        "website": "https://www.thefoodwarehouse.com/store-locator/auldhouse",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2973542,
+          55.8202722
+        ]
+      },
+      "id": "way/625318059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/721611119",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "132",
+        "addr:postcode": "G1 1PQ",
+        "addr:street": "High Street",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "check_date": "2025-05-24",
+        "contact:website": "https://stores.aldi.co.uk/glasgow/132136140-high-street",
+        "fhrs:id": "22736",
+        "name": "ALDI",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "toilets": "yes",
+        "toilets:menstrual_products": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2407574,
+          55.8593119
+        ]
+      },
+      "id": "node/721611119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/780582047",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "1060-1078",
+        "addr:postcode": "G41 3EA",
+        "addr:street": "Pollokshaws Road",
+        "brand": "The Co-operative Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "check_date": "2025-04-12",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "The Co-operative Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G41-3EA/1060-1078-pollokshaws-road",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2799509,
+          55.8311751
+        ]
+      },
+      "id": "node/780582047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783842124",
+        "brand": "Scotmid",
+        "brand:wikidata": "Q7435719",
+        "brand:wikipedia": "en:Scotmid",
+        "building": "yes",
+        "name": "Scotmid",
+        "shop": "supermarket",
+        "website": "https://scotmid.coop/store/torrance/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2112966,
+          55.9394788
+        ]
+      },
+      "id": "way/783842124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791541115",
+        "addr:city": "Paisley",
+        "addr:housename": "Unit 1 Renfrew RP",
+        "addr:postcode": "PA3 4BF",
+        "addr:street": "Wallneuk Road",
+        "brand": "Marks & Spencer",
+        "brand:short": "M&S",
+        "brand:wikidata": "Q714491",
+        "building": "yes",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "fhrs:id": "1402943",
+        "name": "M&S Foodhall",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-18:00",
+        "phone": "+441416739999",
+        "shop": "supermarket",
+        "website": "https://www.marksandspencer.com/stores/paisley-renfrew-road-fh-1490",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4178816,
+          55.8509784
+        ]
+      },
+      "id": "way/791541115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/791541127",
+        "addr:country": "GB",
+        "addr:housenumber": "1",
+        "addr:postcode": "PA3 4BF",
+        "addr:street": "Wallneuk Road",
+        "addr:unit": "3",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "fhrs:id": "1252404",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-21:00",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/paisley/wallneuk-road/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4174793,
+          55.8492608
+        ]
+      },
+      "id": "way/791541127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/836426964",
+        "addr:city": "Paisley",
+        "addr:housenumber": "60",
+        "addr:postcode": "PA2 6NE",
+        "addr:street": "Neilston Road",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "fhrs:id": "130134",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/PA2-6NE/60-62-neilston-road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4236239,
+          55.8354045
+        ]
+      },
+      "id": "node/836426964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/839005123",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "10",
+        "addr:postcode": "G62 6AB",
+        "addr:street": "West Park",
+        "addr:suburb": "Milngavie",
+        "addr:unit": "Unit 1",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171672",
+        "building": "retail",
+        "fhrs:authority": "East Dunbartonshire",
+        "fhrs:id": "1209427",
+        "fhrs:local_authority_id": "19/00058/MIXED",
+        "name": "Aldi",
+        "shop": "supermarket",
+        "source:addr:postcode": "FHIS",
+        "website": "https://stores.aldi.co.uk/scotland/milngavie/unit-1-west-rp-main-st",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.315143,
+          55.932722
+        ]
+      },
+      "id": "way/839005123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/853036243",
+        "addr:city": "Glasgow",
+        "addr:postcode": "G81 1BN",
+        "addr:street": "Mill Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "building": "yes",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/mill-road/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3856231,
+          55.8917434
+        ]
+      },
+      "id": "way/853036243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/854360014",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "building": "yes",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G44-5HH/351-carmunnock-road",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2441217,
+          55.8109195
+        ]
+      },
+      "id": "way/854360014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/927290238",
+        "building": "retail",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G53-5EB/20-24-braidcraft-terrace",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3390434,
+          55.8314776
+        ]
+      },
+      "id": "way/927290238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1022894441",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:SPAR (retailer)",
+        "building": "yes",
+        "name": "Spar",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3060366,
+          55.8529195
+        ]
+      },
+      "id": "way/1022894441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069870666",
+        "atm": "yes",
+        "atm:fee": "no",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G31-3AD/447-alexandra-parade",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2196436,
+          55.8643452
+        ]
+      },
+      "id": "node/1069870666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1120090271",
+        "building": "yes",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1594682,
+          55.8358917
+        ]
+      },
+      "id": "way/1120090271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1143532163",
+        "building": "yes",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3351445,
+          55.8386581
+        ]
+      },
+      "id": "way/1143532163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1181336461",
+        "brand": "Marks & Spencer",
+        "brand:wikidata": "Q714491",
+        "check_date": "2025-06-08",
+        "check_date:opening_hours": "2024-07-21",
+        "contact:website": "https://www.marksandspencer.com/stores/bearsden-simply-food-8866",
+        "fhrs:id": "552708",
+        "name": "Marks & Spencer",
+        "opening_hours": "Mo-Sa 08:00-19:00; Su 09:00-18:00",
+        "operator": "Marks & Spencer",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3339676,
+          55.9205825
+        ]
+      },
+      "id": "way/1181336461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1186877454",
+        "addr:city": "Bishopbriggs",
+        "addr:housename": "Strathkelvin Retail Park",
+        "addr:postcode": "G64 2TS",
+        "addr:street": "Crosshill Road",
+        "addr:unit": "1A",
+        "brand": "M&S Foodhall",
+        "brand:wikidata": "Q714491",
+        "check_date": "2024-07-21",
+        "check_date:opening_hours": "2024-07-21",
+        "fhrs:id": "667754",
+        "name": "M&S Foodhall",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 09:00-19:00",
+        "shop": "supermarket",
+        "website": "https://www.marksandspencer.com/stores/glasgow-bishopbriggs-simply-food-4132",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2106607,
+          55.9203615
+        ]
+      },
+      "id": "way/1186877454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1206110129",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "1300",
+        "addr:postcode": "G31 4EB",
+        "addr:street": "Duke Street",
+        "brand": "Asda",
+        "brand:wikidata": "Q297410",
+        "brand:wikipedia": "en:Asda",
+        "check_date": "2024-08-18",
+        "check_date:opening_hours": "2024-08-18",
+        "contact:facebook": "https://www.facebook.com/asdaparkheadforge/",
+        "contact:phone": "+44 141 554 1830",
+        "contact:twitter": "asda",
+        "fhrs:id": "15684",
+        "indoor": "room",
+        "internet_access": "no",
+        "level": "0",
+        "name": "Asda",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Asda Stores Ltd",
+        "organic": "yes",
+        "room": "shop",
+        "second_hand": "no",
+        "shop": "supermarket",
+        "source": "http://storelocator.asda.com/store/parkhead-forge",
+        "stroller": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://storelocator.asda.com/scotland/glasgow/1300-duke-street",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1992188,
+          55.8540814
+        ]
+      },
+      "id": "way/1206110129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1257255708",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "building": "yes",
+        "name": "Co-op Food",
+        "operator": "EG",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3351579,
+          55.8033964
+        ]
+      },
+      "id": "way/1257255708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1311873291",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "728",
+        "addr:postcode": "G14 0YU",
+        "addr:street": "Anniesland Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "building": "yes",
+        "fhrs:id": "624656",
+        "name": "Tesco",
+        "operator": "Tesco",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data",
+        "website": "https://www.tesco.com/store-locator/glasgow/728-anniesland-rd",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3588525,
+          55.8858621
+        ]
+      },
+      "id": "way/1311873291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1311975815",
+        "addr:country": "GB",
+        "addr:housenumber": "37",
+        "addr:postcode": "G1 4NN",
+        "addr:street": "Jamaica Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "check_date": "2023-09-23",
+        "fhrs:id": "29405",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/jamaica-street-37/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2569157,
+          55.8575274
+        ]
+      },
+      "id": "node/1311975815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1336920096",
+        "addr:country": "GB",
+        "addr:housename": "Kilbowie Retail Park",
+        "addr:postcode": "G81 1QA",
+        "addr:street": "Argyll Road",
+        "addr:unit": "Unit 6",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171672",
+        "fhrs:id": "103711",
+        "name": "Aldi",
+        "shop": "supermarket",
+        "website": "https://stores.aldi.co.uk/scotland/clydebank/unit-6-kilbowie-retail-park-argyll-road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4002789,
+          55.9063388
+        ]
+      },
+      "id": "node/1336920096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1370124900",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "brand:wikipedia": "en:Aldi",
+        "building": "yes",
+        "contact:website": "https://stores.aldi.co.uk/cardonald/2130-paisley-road-west",
+        "name": "ALDI",
+        "shop": "supermarket",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3544219,
+          55.8461749
+        ]
+      },
+      "id": "way/1370124900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467632296",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "name": "Co-op Food",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4293726,
+          55.9117606
+        ]
+      },
+      "id": "node/1467632296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1689096860",
+        "name": "Locavore",
+        "opening_hours": "Mo-Fr 09:00-20:00; PH,Sa,Su 09:00-19:30",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2640213,
+          55.8378936
+        ]
+      },
+      "id": "node/1689096860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1879559288",
+        "atm": "yes",
+        "name": "Kinder Handl",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2568373,
+          55.8252167
+        ]
+      },
+      "id": "node/1879559288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929439164",
+        "addr:housenumber": "120",
+        "addr:postcode": "G64 1NQ",
+        "addr:street": "Auchinairn Road",
+        "brand": "Scotmid",
+        "brand:wikidata": "Q7435719",
+        "brand:wikipedia": "en:Scotmid",
+        "fhrs:id": "667771",
+        "name": "Scotmid",
+        "opening_hours": "07:00-22:00",
+        "shop": "supermarket",
+        "website": "https://scotmid.coop/store/bishopbriggs/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2153652,
+          55.8977427
+        ]
+      },
+      "id": "node/1929439164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929439191",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G21-3PR/219-223-wallacewell-road"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2040714,
+          55.8911865
+        ]
+      },
+      "id": "node/1929439191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3122232353",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "154",
+        "addr:postcode": "G11 6XE",
+        "addr:street": "Dumbarton Road",
+        "name": "Everyday Oriental Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2997443,
+          55.8706437
+        ]
+      },
+      "id": "node/3122232353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4797381480",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "23",
+        "addr:postcode": "G41 2PZ",
+        "addr:street": "Nithsdale Street",
+        "fhrs:id": "899545",
+        "name": "World Foods",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2705621,
+          55.8370325
+        ]
+      },
+      "id": "node/4797381480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4870480699",
+        "addr:country": "GB",
+        "addr:housenumber": "19",
+        "addr:postcode": "G11 6DQ",
+        "addr:street": "Beith Street",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "check_date": "2025-06-06",
+        "fhrs:id": "946097",
+        "name": "Lidl",
+        "opening_hours": "Mo-Sa 08:00-22:00, Su 08:00-20:00",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/beith-street/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3055409,
+          55.8690538
+        ]
+      },
+      "id": "node/4870480699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6945490932",
+        "brand": "Nisa Extra",
+        "brand:wikidata": "Q16999069",
+        "brand:wikipedia": "en:Nisa (retailer)",
+        "name": "Nisa Extra",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2407642,
+          55.8477705
+        ]
+      },
+      "id": "node/6945490932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7840688390",
+        "addr:postcode": "G5 0DP",
+        "brand": "The Food Warehouse",
+        "brand:wikidata": "Q87263899",
+        "fhrs:id": "1662373",
+        "name": "The Food Warehouse",
+        "operator": "Iceland",
+        "phone": "+44 141 429 7396",
+        "shop": "supermarket",
+        "website": "https://www.thefoodwarehouse.com/store-locator/crown-street-glasgow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251888,
+          55.84254
+        ]
+      },
+      "id": "node/7840688390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7840988385",
+        "addr:country": "GB",
+        "addr:housename": "Crown Street Retail Park",
+        "addr:housenumber": "41",
+        "addr:postcode": "G5 0DP",
+        "addr:street": "Gushetfaulds Street",
+        "brand": "Aldi",
+        "brand:wikidata": "Q41171672",
+        "name": "Aldi",
+        "shop": "supermarket",
+        "website": "https://stores.aldi.co.uk/scotland/glasgow/41-gushetfaulds-st"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2516773,
+          55.8428238
+        ]
+      },
+      "id": "node/7840988385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8176307532",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "390-400",
+        "addr:postcode": "G51 1BG",
+        "addr:street": "Paisley Road West",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "brand:wikipedia": "en:Co-op Food",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "fhrs:id": "124658",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G51-1BG/390-400-paisley-road-west"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2959834,
+          55.8518036
+        ]
+      },
+      "id": "node/8176307532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8264547009",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "25",
+        "addr:postcode": "G5 9JB",
+        "addr:street": "Bridge Street",
+        "fhrs:id": "1129550",
+        "name": "Taibah Supermarket",
+        "opening_hours": "9:00 - 20:30",
+        "phone": "+44 141 237 968",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2583475,
+          55.8535813
+        ]
+      },
+      "id": "node/8264547009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9017246506",
+        "branch": "Glasgow",
+        "cuisine": "asian",
+        "name": "萬富行 Matthew's Foods",
+        "name:en": "Matthew's Foods",
+        "name:zh": "萬富行",
+        "payment:american_express": "no",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2607361,
+          55.8728959
+        ]
+      },
+      "id": "node/9017246506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9217186642",
+        "addr:city": "Glasgow",
+        "addr:country": "GB",
+        "addr:housenumber": "11",
+        "addr:postcode": "G33 1AD",
+        "addr:street": "Monument Drive",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "brand:wikipedia": "en:Lidl",
+        "check_date": "2025-03-23",
+        "fhrs:id": "1334367",
+        "name": "Lidl",
+        "opening_hours": "Mo-Su,PH 08:00-21:00",
+        "shop": "supermarket",
+        "survey:date": "2021-01-30",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/robroyston-retail-park-monument-road/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.182762,
+          55.891115
+        ]
+      },
+      "id": "node/9217186642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9434492990",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "111",
+        "addr:postcode": "G33 3QE",
+        "addr:street": "Edinburgh Road",
+        "brand": "Scotmid",
+        "brand:wikidata": "Q7435719",
+        "brand:wikipedia": "en:Scotmid",
+        "name": "Scotmid",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1725382,
+          55.8633078
+        ]
+      },
+      "id": "node/9434492990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9439246555",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "247",
+        "addr:postcode": "G51 1NE",
+        "addr:street": "Paisley Road West",
+        "fhrs:id": "1560610",
+        "name": "Asam",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2887145,
+          55.8521824
+        ]
+      },
+      "id": "node/9439246555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9461780997",
+        "name": "Kurdish Kobane",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2644186,
+          55.8371003
+        ]
+      },
+      "id": "node/9461780997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9461781003",
+        "name": "noor",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2647123,
+          55.8374524
+        ]
+      },
+      "id": "node/9461781003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9905792321",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "404",
+        "addr:postcode": "G11 6SB",
+        "addr:street": "Dumbarton Road",
+        "cuisine": "thai",
+        "fhrs:id": "1397318",
+        "name": "Isan Thai",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3099499,
+          55.8708769
+        ]
+      },
+      "id": "node/9905792321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10683199827",
+        "addr:city": "Glasgow",
+        "addr:housename": "Queen's House",
+        "addr:housenumber": "29",
+        "addr:postcode": "G1 2DT",
+        "addr:street": "St Vincent Place",
+        "description": "MGAC is a global boutique consultancy dedicated to managing and representing our clients’ best interests.",
+        "image": "https://local-platform.s3.us-east-2.amazonaws.com/location/logo/160584/s3K8RtMIVz1QdzXjwuw6MJ7copbQUGQOcsZA7d6L.png",
+        "name": "MGAC Glasgow",
+        "opening_hours": "Mo-Th 08:30-17:30; Fr 08:30-15:00",
+        "phone": "+44 141 225 0470",
+        "shop": "supermarket",
+        "website": "https://www.mgac.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2529128,
+          55.8608084
+        ]
+      },
+      "id": "node/10683199827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11176660766",
+        "brand": "ALDI",
+        "brand:wikidata": "Q41171672",
+        "check_date": "2024-04-17",
+        "entrance": "shop",
+        "name": "ALDI",
+        "oneway": "yes",
+        "shop": "supermarket",
+        "toilets": "yes",
+        "website": "https://stores.aldi.co.uk/scotland/parkhead/unit-2-amp-3a-929-gallowgate",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2132433,
+          55.8545958
+        ]
+      },
+      "id": "node/11176660766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11183115067",
+        "addr:city": "Barrhead",
+        "addr:housenumber": "10",
+        "addr:postcode": "G78 1FQ",
+        "addr:street": "Corsemill Court",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "check_date": "2025-04-11",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/barrhead/glasgow-road/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3790041,
+          55.8081898
+        ]
+      },
+      "id": "node/11183115067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11212345499",
+        "name": "Tu Quynh Oriental Supermarket",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2463695,
+          55.8565227
+        ]
+      },
+      "id": "node/11212345499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11519490436",
+        "name": "European Supermarket",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1739854,
+          55.8520361
+        ]
+      },
+      "id": "node/11519490436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11519490441",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "960-962",
+        "addr:street": "Shettleston Road",
+        "name": "Price Cutters",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1724511,
+          55.8517101
+        ]
+      },
+      "id": "node/11519490441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11528038613",
+        "name": "Barez Super Market",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1730818,
+          55.8519742
+        ]
+      },
+      "id": "node/11528038613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11554672593",
+        "name": "greens",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1673325,
+          55.8514967
+        ]
+      },
+      "id": "node/11554672593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11879731820",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "125-127",
+        "addr:postcode": "G11 6PR",
+        "addr:street": "Dumbarton Road",
+        "name": "Shanhe Seafood Supermarket",
+        "opening_hours": "Mo-Su 11:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2989655,
+          55.8702353
+        ]
+      },
+      "id": "node/11879731820"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11922516764",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "386",
+        "addr:postcode": "G31 3NN",
+        "addr:street": "Cumbernauld Road",
+        "brand": "Nisa Extra",
+        "brand:wikidata": "Q16999069",
+        "name": "Nisa Extra",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "01415542182",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2053822,
+          55.8625208
+        ]
+      },
+      "id": "node/11922516764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11965346961",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "124",
+        "addr:postcode": "G12 8TB",
+        "addr:street": "Byres Road",
+        "name": "Casey's To Go",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2954091,
+          55.873514
+        ]
+      },
+      "id": "node/11965346961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11980882647",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "335",
+        "addr:postcode": "G4 9HS",
+        "addr:street": "Great Western Road",
+        "fhrs:id": "360863",
+        "name": "El Baraka",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2764617,
+          55.8735388
+        ]
+      },
+      "id": "node/11980882647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11981009703",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "307",
+        "addr:postcode": "G4 9HR",
+        "addr:street": "Great Western Road",
+        "fhrs:id": "448763",
+        "name": "Oriental Food Store & Halal Butchers",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2754887,
+          55.8732229
+        ]
+      },
+      "id": "node/11981009703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12025672008",
+        "addr:floor": "B",
+        "addr:housenumber": "320",
+        "addr:street": "Argyle Street",
+        "check_date": "2024-07-01",
+        "level": "-1",
+        "name": "Viet fresh",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2613113,
+          55.858877
+        ]
+      },
+      "id": "node/12025672008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12209118364",
+        "name": "Ryan Shop",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3487936,
+          55.8781488
+        ]
+      },
+      "id": "node/12209118364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12374335444",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "179",
+        "addr:postcode": "G11 6AA",
+        "addr:street": "Dumbarton Road",
+        "check_date": "2025-05-24",
+        "name": "Ximi",
+        "shop": "supermarket",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3012109,
+          55.8707407
+        ]
+      },
+      "id": "node/12374335444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12384888265",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "37-39",
+        "addr:postcode": "G4 9SE",
+        "addr:street": "Farnell Street",
+        "fhrs:id": "99381",
+        "name": "Chan's",
+        "shop": "supermarket",
+        "website": "http://chansltd.co.uk/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2595207,
+          55.8748211
+        ]
+      },
+      "id": "node/12384888265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12749702258",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "14",
+        "addr:postcode": "G41 3TL",
+        "addr:street": "Moss Side Road",
+        "check_date": "2025-04-12",
+        "fhrs:id": "962165",
+        "name": "Shawlands Continental Store",
+        "shop": "supermarket",
+        "source:addr": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2813438,
+          55.8308411
+        ]
+      },
+      "id": "node/12749702258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12876773490",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "868",
+        "addr:postcode": "G13 1HU",
+        "addr:street": "Crow Road",
+        "brand": "Lidl",
+        "brand:wikidata": "Q151954",
+        "name": "Lidl",
+        "shop": "supermarket",
+        "website": "https://www.lidl.co.uk/s/en-GB/store-finder/glasgow/crow-road-868/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3227323,
+          55.8904246
+        ]
+      },
+      "id": "node/12876773490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12880858726",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "name": "Spar",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1439993,
+          55.8715599
+        ]
+      },
+      "id": "node/12880858726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12912387488",
+        "addr:city": "Glasgow",
+        "addr:housenumber": "557",
+        "addr:postcode": "G3 7PQ",
+        "addr:street": "Sauchiehall Street",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Co-operative Group Limited",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+44 1412487651",
+        "shop": "supermarket",
+        "website": "https://www.coop.co.uk/store-finder/G3-7PQ/glasgow-park?utm_source=gmb&utm_medium=organic&utm_campaign=gmb-Glasgow-Park-Charing-Cross-Glasgow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2731691,
+          55.8660954
+        ]
+      },
+      "id": "node/12912387488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12917096389",
+        "name": "100 Supermarket",
+        "opening_hours": "Mo-Th 11:00-20:00; Fr,Sa 11:00-20:30; Su 11:00-19:00",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2494164,
+          55.8568731
+        ]
+      },
+      "id": "node/12917096389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12959154139",
+        "addr:city": "Glasgow",
+        "addr:housename": "City Park",
+        "addr:housenumber": "368",
+        "addr:postcode": "G31 3AU",
+        "addr:street": "Alexandra Parade",
+        "name": "Glasgow Gutters",
+        "phone": "014 1266 0185",
+        "shop": "supermarket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2230918,
+          55.8639954
+        ]
+      },
+      "id": "node/12959154139"
+    }
+  ]
+}
