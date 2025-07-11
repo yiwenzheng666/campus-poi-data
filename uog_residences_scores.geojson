@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelvinhaugh Street",
+        "healthy_score": 59,
+        "healthy_rank": 5,
+        "wheel_score": 53,
+        "wheel_rank": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28998874603486,
+          55.8645185334258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lister House",
+        "healthy_score": 26,
+        "healthy_rank": 9,
+        "wheel_score": 26,
+        "wheel_rank": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29999316931009,
+          55.8854237605058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maclay Residences",
+        "healthy_score": 49,
+        "healthy_rank": 6,
+        "wheel_score": 34,
+        "wheel_rank": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29721567724037,
+          55.8644409589693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Student Apartments",
+        "healthy_score": 93,
+        "healthy_rank": 1,
+        "wheel_score": 91,
+        "wheel_rank": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.28739476941799,
+          55.8735215749507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Winton Drive",
+        "healthy_score": 25,
+        "healthy_rank": 10,
+        "wheel_score": 25,
+        "wheel_rank": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29897703434932,
+          55.8852081566475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blackfriars (Unite)",
+        "healthy_score": 47,
+        "healthy_rank": 7,
+        "wheel_score": 46,
+        "wheel_rank": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24078866795078,
+          55.8589447761184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bridge House (Fresh)",
+        "healthy_score": 62,
+        "healthy_rank": 4,
+        "wheel_score": 58,
+        "wheel_rank": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29705137301743,
+          55.8682962390918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Havannah House (iQ)",
+        "healthy_score": 25,
+        "healthy_rank": 11,
+        "wheel_score": 22,
+        "wheel_rank": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.23442270679825,
+          55.8586596534994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jim Stephen House",
+        "healthy_score": 16,
+        "healthy_rank": 12,
+        "wheel_score": 17,
+        "wheel_rank": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.31411177192194,
+          55.8651713284396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelvingrove House (Homes for Students)",
+        "healthy_score": 74,
+        "healthy_rank": 3,
+        "wheel_score": 72,
+        "wheel_rank": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29097146478843,
+          55.8669801403175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thurso Street (Unite)",
+        "healthy_score": 82,
+        "healthy_rank": 2,
+        "wheel_score": 83,
+        "wheel_rank": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2969628306899,
+          55.8696829605943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Firhill Court (Homes for Students)",
+        "healthy_score": 42,
+        "healthy_rank": 8,
+        "wheel_score": 27,
+        "wheel_rank": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.270075,
+          55.8825000708752
+        ]
+      }
+    }
+  ]
+}
